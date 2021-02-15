@@ -1,3 +1,20 @@
+# Codecademy Jammming Project
+
+Thank you for taking a look at my code, produced as a Codecademy project to help learn React.
+
+The app allows a user to search the Spotify library, populates a search results lists and allows these
+tracks to be added to a new, renameable playlist.
+
+The app was built using JavaScript, HTML, CSS and React.
+
+To run the code, an .env file is required in the following format:
+
+```
+REACT_APP_CLIENTID = 'Spotify API key here'
+REACT_APP_REDIRECTURI = 'Dedirect URI here'
+```
+
+----------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
